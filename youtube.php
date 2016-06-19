@@ -42,7 +42,7 @@ $youtube_videos[] = array('title' => 'East and West Trading Est Video ', 'id' =>
   <head>
   	<meta name="viewport" content="width=470, maximum-scale=1, user-scalable=no, target-densitydpi=device-dpi">
   	<title>Responsive YouTube Player with Scrolling Thumbnail Playlist</title> 
-        <link rel="stylesheet" href="youtube/font-awesome.min.css" />
+        <link rel="stylesheet" href="font-awesome.min.css" />
 
   	<style type="text/css">
 
